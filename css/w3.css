@@ -14,16 +14,8 @@ html {
 }
 
 body {
-    margin: 0;
-        padding:0;
-  
+    margin: 0
 }
-
-.slides {width:800px;
-height:400px;
-background:url(1.jpg); 
-margin:100px}
-
 
 article,
 aside,
